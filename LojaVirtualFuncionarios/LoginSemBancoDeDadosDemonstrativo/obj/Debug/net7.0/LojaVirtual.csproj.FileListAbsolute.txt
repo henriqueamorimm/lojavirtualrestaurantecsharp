@@ -1,0 +1,15 @@
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\bin\Debug\net7.0\LojaVirtual.exe
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\bin\Debug\net7.0\LojaVirtual.deps.json
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\bin\Debug\net7.0\LojaVirtual.runtimeconfig.json
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\bin\Debug\net7.0\LojaVirtual.dll
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\bin\Debug\net7.0\LojaVirtual.pdb
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual.csproj.AssemblyReference.cache
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual.AssemblyInfoInputs.cache
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual.AssemblyInfo.cs
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual.dll
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\refint\LojaVirtual.dll
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual.pdb
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual.genruntimeconfig.cache
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\ref\LojaVirtual.dll

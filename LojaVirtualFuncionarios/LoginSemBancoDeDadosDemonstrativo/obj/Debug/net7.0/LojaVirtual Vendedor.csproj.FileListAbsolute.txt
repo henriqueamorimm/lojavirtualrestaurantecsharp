@@ -1,0 +1,15 @@
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\bin\Debug\net7.0\LojaVirtual Vendedor.exe
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\bin\Debug\net7.0\LojaVirtual Vendedor.deps.json
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\bin\Debug\net7.0\LojaVirtual Vendedor.runtimeconfig.json
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\bin\Debug\net7.0\LojaVirtual Vendedor.dll
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\bin\Debug\net7.0\LojaVirtual Vendedor.pdb
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual Vendedor.csproj.AssemblyReference.cache
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual Vendedor.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual Vendedor.AssemblyInfoInputs.cache
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual Vendedor.AssemblyInfo.cs
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual Vendedor.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual Vendedor.dll
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\refint\LojaVirtual Vendedor.dll
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual Vendedor.pdb
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\LojaVirtual Vendedor.genruntimeconfig.cache
+D:\ProjetosC#\LoginSemBancoDeDadosDemonstrativo\LoginSemBancoDeDadosDemonstrativo\obj\Debug\net7.0\ref\LojaVirtual Vendedor.dll
